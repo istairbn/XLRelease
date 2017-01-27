@@ -1,0 +1,8 @@
+<Bundle name="XLReleaseApp-1.0" version="1.0" system="false">
+  <status>UNINSTALLED</status>
+  <owner>ben.newton@excelian.com</owner>
+  <services>
+	<Service>
+    </Service>
+	</services>
+</Bundle>
