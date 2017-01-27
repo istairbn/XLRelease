@@ -1,6 +1,7 @@
-# XLRelease
+# XLRelease 
+![XLRelease Logo](docs/images/XLR.png)
 
-A [Logscape][reference-logscape] App for monitoring XL Release.
+A [Logscape][reference-logscape] App for monitoring [XL Release][reference-xlr].
 
 This will ensure your XL Release Logs are properly ingested into Logscape. 
 
@@ -27,4 +28,5 @@ So far we have only a few searches and workspaces. Next probable steps:
 3. Auditing Pages - Tracking the updates
 
 [reference-logscape]: http://logscape.com/
+[reference-xlr]: https://xebialabs.com/products/xl-release/
 [reference-xlrlogging]: https://docs.xebialabs.com/xl-release/concept/logging-in-xl-release.html
